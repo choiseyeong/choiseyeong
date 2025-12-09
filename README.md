@@ -1,16 +1,5 @@
-# 👋 Hi there!  
 
 I'm a **freshman (Class of 2024) in Computer Science at Seoul National University of Science and Technology**.  
-I enjoy learning and want to gain more development experience in the future. ✨  
+I hope to grow through meaningful experiences and collaborations!
 
----
-
-## 🛠️ Tech Stack
-- 💻 Python (currently studying!)  
-- 🌱 Gradually learning other languages and technologies  
-
----
-
-## 🎯 Goals
-- 🔎 Learn and contribute actively to **open-source software**  
-- 🤝 Join communities to learn and grow together  
+Thank you for visiting my profile. 🐧🌱
